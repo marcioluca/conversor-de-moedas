@@ -1,2 +1,2 @@
 # conversor-de-moedas
-Conversor de moedas feito do html, css e javascript.
+Conversor de moedas feito com html, css e javascript.
